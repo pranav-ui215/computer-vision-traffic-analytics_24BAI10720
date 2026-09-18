@@ -1,0 +1,1 @@
+Place small legally usable sample images here.

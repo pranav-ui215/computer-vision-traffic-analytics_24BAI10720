@@ -1,0 +1,1 @@
+Optional project assets. Avoid copyrighted material unless permitted.

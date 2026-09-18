@@ -1,0 +1,1 @@
+Run `python -m app.generate_demo` to create the included synthetic traffic demo.
